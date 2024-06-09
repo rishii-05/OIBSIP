@@ -1,0 +1,22 @@
+body {
+    color: darkmagenta;
+    font-family: 'Segoe Print';
+    background-color: #BFFAFC;
+    background-color: linear-gradient(to right, #6a11cb, #2575fc);
+    text-align: center;
+}
+input, select{
+    text-align: center; 
+    height: 40px; 
+    width: 250px;
+}
+#convert {
+    font-weight: bold;
+    color: black;
+    border-radius: 5px;
+    cursor: pointer;
+    background: radial-gradient(circle at center, white, yellow, orange,red);
+}
+#result {
+    color: darkmagenta;
+}
